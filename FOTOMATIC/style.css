@@ -105,9 +105,8 @@ header {
 .dame:hover {
     background-color: rgb(170, 204, 47);
     color: black;
-    font-weight: bold;
     cursor: pointer;
-    transition: 0.4s ease;
+    transition-duration: 2s
 }
 
 main {
