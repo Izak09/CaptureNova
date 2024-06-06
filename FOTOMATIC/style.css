@@ -164,12 +164,12 @@ main {
 .images-container {
     display: flex;
     width: auto;
-    height: auto; /* Adjusted to auto to allow for image resizing */
+    height: auto; 
 }
 
 .images-filter img {
-    width: 285px; /* Set the desired width */
-    height: auto; /* Maintain aspect ratio */
+    width: 285px; 
+    height: auto;
 }
 
 .above-header {
