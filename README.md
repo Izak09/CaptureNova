@@ -1,12 +1,6 @@
 This website consists of advanced CSS and HTML code, which contribute to the beautiful appearance of the website.
 It is optimized for integration with mobile devices and is a prime example of a responsive website, as it adjusts according to your screen size.
 
-Here are the code sources:
-
-HTML CODE -------> https://github.com/Izak09/FOTOMATIC/blob/main/FOTOMATIC/index.html
-
-CSS CODE -------> https://github.com/Izak09/FOTOMATIC/blob/main/FOTOMATIC/style.css
-
 -------------------------HOW TO USE IT?-------------------------
 
 - Copy and paste the code into any code editor
